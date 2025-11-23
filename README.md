@@ -1,12 +1,15 @@
-# Onboard (Envoyed diagnostic fork)
+# Onboard (diagnostic fork)
 
 > This repository is a diagnostic fork of `onboard-osk/onboard` focused on a
-> **segmentation fault on Ubuntu 24.04.3 (Noble, X11)**. If you are a
-> maintainer or contributor looking into the crash, please start with:
->
-> - `README-dev-notes.md` – high-level description of the environment,
->   observed crash behavior, experiments, and a **current working
->   configuration** for the packaged Onboard.
+> **segmentation fault on Ubuntu 24.04.3 (Noble, X11)**.
+> 
+> If you are a maintainer or contributor investigating this issue, please
+> start with:
+> 
+> - **`README-dev-notes.md`** – primary reference with a high-level
+>   description of the environment, observed crash behavior, debug runs,
+>   and the **current working configuration** for the packaged Onboard on
+>   this system.
 > - `onboard-crash-report.txt` – detailed narrative crash report with
 >   command outputs and reasoning.
 >
